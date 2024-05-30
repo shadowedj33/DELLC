@@ -1,8 +1,14 @@
-# React + Vite
+# Digital Endeavors React Vite Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Digital Endeavors website repository! This project showcases my web development skills and serves as a portfolio for my work. Feel free to explore the code, leave suggestions, or get in touch with me.
 
-Currently, two official plugins are available:
+# About
+This website was built as a starting point for my web development services. It was developed to get my name out there and build my skills up more to display to possible employers and clients. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+- Responsive design using HTML, CSS, and JavaScript
+- Interactive animations with Three.js
+- Real-time analytics implementation
+- Contact form with server-side validation
+
+# Feel free to reach out if you have any suggestions, interest in collaborating, or opportunites!
