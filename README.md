@@ -2,6 +2,8 @@
 
 Welcome to the Digital Endeavors website repository! This project showcases my web development skills and serves as a portfolio for my work. Feel free to explore the code, leave suggestions, or get in touch with me.
 
+# Website: https://digendeavors.com
+
 # About
 This website was built as a starting point for my web development services. It was developed to get my name out there and build my skills up more to display to possible employers and clients. 
 
