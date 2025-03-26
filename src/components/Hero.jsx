@@ -16,7 +16,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[15.25rem]">
           <h1 className="h1 mb-6 text-n-2">
-            Get the website your business deserves with {` `}
+            Scale Your Business with AI & Digital Marketing from {` `}
             <span className="inline-block relative font-bruno font-extrabold text-n-7">
               DIGITAL ENDEAVORS{" "}
               <img
@@ -29,9 +29,9 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-5">
-            Upgrade your online presence with Digital Endeavors&apos; skilled
-            developers. Let our team of experts help you create a website that
-            stands out from your competitors.
+            Upgrade your online presence with our skilled professionals. We help
+            brands grow with AI-powered marketing, high-converting ads, custome
+            web development, and seamless system integrations.
           </p>
           <Button href="#contact" white>
             Request a Consult

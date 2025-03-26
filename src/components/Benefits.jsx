@@ -11,7 +11,7 @@ const Benefits = () => {
       <div className="container -top-[-10rem] items-center relative z-2 pt-[16rem]">
         <Heading
           className="md:max-w-md lg:max-w-2xl xs:text-center"
-          title="Designed With You, Built For You"
+          title="The Digital Endeavors Advantage"
         />
 
         <div className="flex flex-wrap gap-10 mb-10">
